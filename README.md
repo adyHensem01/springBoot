@@ -15,8 +15,9 @@ Java SpringBoot
 
    ![image](https://github.com/user-attachments/assets/dcd4e647-a081-4286-998a-84b86818b680)
 
+-> **Make sure you make the port 8080 to public not private! and click the website icon to get the new url.**
 
-9. The output, I am using POSTMAN to test the output.
+8. The output, I am using POSTMAN to test the output.
 
    **POST**
    ![image](https://github.com/user-attachments/assets/1e9c2323-c28c-4e8f-8b54-647ba022e474)
@@ -24,7 +25,7 @@ Java SpringBoot
    **GET**
    ![image](https://github.com/user-attachments/assets/cce0f9a6-ee0e-4364-9532-bbe77bcc5505)
 
-10. All the test file are using Junit 5 and Mockito
+9. All the test file are using Junit 5 and Mockito
 
     **StudentcontrollerTest.java is passed**
     ![image](https://github.com/user-attachments/assets/41529d19-fe4b-4e7d-ad91-de2830e4de7a)
